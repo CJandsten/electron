@@ -23,6 +23,7 @@ following projects:
 
 * [socorro](https://github.com/mozilla/socorro)
 * [mini-breakpad-server](https://github.com/electron/mini-breakpad-server)
+* [Backtrace](https://backtrace.io/) [Backtrace Documentation](https://documentation.backtrace.io/product_integration_minidump_electron/)
 
 Crash reports are saved locally in an application-specific temp directory folder.
 For a `productName` of `YourName`, crash reports will be stored in a folder
